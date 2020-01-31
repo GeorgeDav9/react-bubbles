@@ -56,7 +56,7 @@ const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background:  	#2dc8aa;
+  background:  	gray;
 `;
 
 const Button = styled.button`
