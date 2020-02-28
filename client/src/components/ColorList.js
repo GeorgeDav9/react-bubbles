@@ -59,7 +59,7 @@ const ColorList = ({ colors, updateColors }) => {
 
   return (
     <div className='colors-wrap'>
-    <p>colors</p>
+    <p>Colors</p>
     <ul>
       {colors.map(color => (
          <li key={color.color}>
